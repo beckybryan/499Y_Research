@@ -1,0 +1,18 @@
+Filling in count transition matrix [71]...
+Creating a probability matrix [71]...
+Initializing count transition matrix [70]...
+Filling in count transition matrix [70]...
+Creating a probability matrix [70]...
+Python(7662,0xa100b1d4) malloc: *** mach_vm_map(size=8388608) failed (error code=3)
+*** error: can't allocate region
+*** set a breakpoint in malloc_error_break to debug
+Traceback (most recent call last):
+  File "phoneDataAnalysis.py", line 382, in <module>
+    main()
+  File "phoneDataAnalysis.py", line 202, in main
+    trained_users=readData(fd)
+  File "phoneDataAnalysis.py", line 357, in readData
+    user_instance_dict[key_user_id].create_prob_matrix()
+  File "phoneDataAnalysis.py", line 88, in create_prob_matrix
+    self.prob_matrix[row][col]=self.count_matrix[row][col]/(self.sum_list[row]+self.lacs_unvisited)
+MemoryError

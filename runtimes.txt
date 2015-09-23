@@ -1,0 +1,15 @@
+Run 1:
+
+uma-vl927-72-19-102-91:2015-IndStudy-rbryan Becky$ time python3.2 phoneDataAnalysis.py rm.csv 2004-09 2004-09
+
+real	37m41.049s
+user	37m37.412s
+sys	0m2.867s
+
+Run 2:
+
+uma-vl927-72-19-102-91:2015-IndStudy-rbryan Becky$ time python3.2 phoneDataAnalysis.py rm.csv 2004-09 2004-10
+
+real	46m31.660s
+user	45m41.519s
+sys	0m17.271s

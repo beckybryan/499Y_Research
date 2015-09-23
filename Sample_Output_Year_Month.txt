@@ -1,0 +1,376 @@
+Sample Output
+4/26/15
+5:03pm
+
+
+------------------------------
+(For analysis: length of transitions tested= 14258)
+Correct: 25 
+Guessed: 25 (with highest probability of -30651.590145)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 11325)
+Correct: 26 
+Guessed: 26 (with highest probability of -26419.321527)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4184)
+Correct: 27 
+Guessed: 26 (with highest probability of -10330.206125)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 9772)
+Correct: 20 
+Guessed: 20 (with highest probability of -22126.919215)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10675)
+Correct: 21 
+Guessed: 6 (with highest probability of -23302.105179)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 5305)
+Correct: 22 
+Guessed: 22 (with highest probability of -15517.081569)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 12967)
+Correct: 23 
+Guessed: 23 (with highest probability of -24822.153246)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4322)
+Correct: 28 
+Guessed: 26 (with highest probability of -12468.265337)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 1)
+Correct: 29 
+Guessed: 78 (with highest probability of 0.000000)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 569)
+Correct: 4 
+Guessed: 4 (with highest probability of -1097.794249)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 7403)
+Correct: 8 
+Guessed: 8 (with highest probability of -20092.201311)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4859)
+Correct: 58 
+Guessed: 58 (with highest probability of -14539.316585)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8187)
+Correct: 55 
+Guessed: 26 (with highest probability of -24767.332212)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6943)
+Correct: 54 
+Guessed: 20 (with highest probability of -19708.147708)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 9122)
+Correct: 57 
+Guessed: 4 (with highest probability of -29076.725902)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10877)
+Correct: 56 
+Guessed: 38 (with highest probability of -30338.109171)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 9651)
+Correct: 51 
+Guessed: 26 (with highest probability of -25918.753846)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6915)
+Correct: 50 
+Guessed: 40 (with highest probability of -19178.891789)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6008)
+Correct: 53 
+Guessed: 25 (with highest probability of -17631.598449)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 18468)
+Correct: 52 
+Guessed: 52 (with highest probability of -56418.441289)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4460)
+Correct: 88 
+Guessed: 88 (with highest probability of -11502.385128)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4101)
+Correct: 82 
+Guessed: 82 (with highest probability of -8817.216058)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10807)
+Correct: 81 
+Guessed: 81 (with highest probability of -31117.784219)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6836)
+Correct: 102 
+Guessed: 25 (with highest probability of -16335.413630)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 5510)
+Correct: 103 
+Guessed: 25 (with highest probability of -13918.777179)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 140)
+Correct: 101 
+Guessed: 25 (with highest probability of -131.364545)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6130)
+Correct: 39 
+Guessed: 39 (with highest probability of -25809.959395)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 19537)
+Correct: 38 
+Guessed: 38 (with highest probability of -45275.168546)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 15028)
+Correct: 33 
+Guessed: 33 (with highest probability of -26474.204151)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6271)
+Correct: 32 
+Guessed: 32 (with highest probability of -15531.968908)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8337)
+Correct: 37 
+Guessed: 37 (with highest probability of -16433.278031)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 9180)
+Correct: 36 
+Guessed: 38 (with highest probability of -20029.965024)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 5421)
+Correct: 35 
+Guessed: 35 (with highest probability of -10506.982927)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 14349)
+Correct: 34 
+Guessed: 33 (with highest probability of -28558.819800)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 1152)
+Correct: 61 
+Guessed: 61 (with highest probability of -2795.964904)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6616)
+Correct: 63 
+Guessed: 33 (with highest probability of -19251.876571)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 7419)
+Correct: 67 
+Guessed: 67 (with highest probability of -17638.056145)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10978)
+Correct: 69 
+Guessed: 18 (with highest probability of -29444.307109)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 17732)
+Correct: 6 
+Guessed: 6 (with highest probability of -42313.337400)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 14653)
+Correct: 99 
+Guessed: 99 (with highest probability of -37272.327504)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10)
+Correct: 98 
+Guessed: 38 (with highest probability of -27.476957)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8639)
+Correct: 93 
+Guessed: 20 (with highest probability of -23115.075210)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8624)
+Correct: 97 
+Guessed: 19 (with highest probability of -23404.190957)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8538)
+Correct: 11 
+Guessed: 11 (with highest probability of -17804.518518)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 7545)
+Correct: 10 
+Guessed: 10 (with highest probability of -23948.350480)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8214)
+Correct: 12 
+Guessed: 12 (with highest probability of -27800.729852)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 4970)
+Correct: 15 
+Guessed: 15 (with highest probability of -13822.461406)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6122)
+Correct: 17 
+Guessed: 17 (with highest probability of -18790.712778)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6402)
+Correct: 16 
+Guessed: 16 (with highest probability of -17472.057052)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 11037)
+Correct: 46 
+Guessed: 20 (with highest probability of -33674.721530)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 12755)
+Correct: 42 
+Guessed: 20 (with highest probability of -39812.667796)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 12828)
+Correct: 40 
+Guessed: 40 (with highest probability of -27914.793213)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 2018)
+Correct: 41 
+Guessed: 4 (with highest probability of -5916.835200)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 11653)
+Correct: 5 
+Guessed: 5 (with highest probability of -32038.161825)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8867)
+Correct: 9 
+Guessed: 9 (with highest probability of -16007.287160)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 11137)
+Correct: 77 
+Guessed: 77 (with highest probability of -31040.270545)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 6)
+Correct: 76 
+Guessed: 101 (with highest probability of -16.702662)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 12579)
+Correct: 75 
+Guessed: 75 (with highest probability of -36002.338360)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 11951)
+Correct: 71 
+Guessed: 71 (with highest probability of -30723.522873)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 10649)
+Correct: 70 
+Guessed: 25 (with highest probability of -30556.648017)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8470)
+Correct: 79 
+Guessed: 79 (with highest probability of -23168.023864)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99
+
+------------------------------
+(For analysis: length of transitions tested= 8657)
+Correct: 78 
+Guessed: 40 (with highest probability of -20453.823281)
+Date Range: 2004-10-00 00:00:00 - 2004-10-99 99:99:99

@@ -1,0 +1,5 @@
+Trace Duration,Total Tested,Correct,Incorrect,Accuracy
+month,5,4,1,0.8
+week,16,13,3,0.8125
+day,101,86,15,0.85149
+hour,1427,808,619,0.56622
